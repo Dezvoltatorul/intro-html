@@ -14,7 +14,7 @@ body {
 }
 
 body:after {
-    content: "Photo by Zdeněk Macháček on Unsplash";
+    content: "Thanks to Unsplash (background image)";
     position: fixed;
     left: 0;
     bottom: 0;
