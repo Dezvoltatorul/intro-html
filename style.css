@@ -1,1 +1,7 @@
+/*Selector {
+  Property: value;
+}*/ 
 
+body {
+    background-image: url(background.jpg)
+}
